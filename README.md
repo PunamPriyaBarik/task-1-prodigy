@@ -6,7 +6,7 @@ CIN: PIT/JAN25/03170
 
 Domain: DATA SCIENCE
 
-Duration: 1st January2024 to 31st January2024
+Duration: 1st January2025 to 31st January2025
 
 Project Overview: Visualizing Distribution of Variables
 
